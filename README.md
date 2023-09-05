@@ -19,7 +19,7 @@
 
     gem install bundler
 
-    gem install ruby-debug-ide]
+    gem install ruby-debug-ide
 
 ### É necessário clonar esse repositório
 
