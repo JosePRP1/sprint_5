@@ -26,6 +26,9 @@
 ### Deve acessar a pasta em que está a gemfile, através do Cmder e digitar o seguinte comando:
     bundle install
 
+### Para rodar o projeto deve-se usar o seguinte comando na pasta que tiver o arquivo
+    cucumber -p default
+
 ## Autores
 
 - [@JosePRP1](https://www.github.com/josePRP1)
